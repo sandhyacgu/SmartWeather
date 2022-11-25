@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme&family=Cabin+Sketch:wght@700&family=IBM+Plex+Serif:ital@1&family=Monoton&family=Montserrat+Alternates:wght@500&family=Montserrat:wght@300;400&family=Open+Sans:wght@300&family=Poppins:wght@400;500&family=Share+Tech+Mono&family=Special+Elite&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    html{
+        font-family: 'Poppins',
+        sans-serif;
+        background-color: #839AA8;
+    }
+}
